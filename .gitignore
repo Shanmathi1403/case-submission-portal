@@ -1,0 +1,12 @@
+node_modules/
+.DS_Store
+.env
+.env.local
+.env.*
+start-local.sh
+!.env.example
+client/dist/
+server/local/
+server/data/
+coverage/
+server/coverage/
