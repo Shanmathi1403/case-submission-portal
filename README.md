@@ -75,7 +75,7 @@ The Case Submission Application is a modern, secure platform that enables users 
 ![InvalidUser Screen](./docs/screenshots/login/InvalidUser.png)
 
 ### Registration Page
-![Registration Screen](./docs/screenshots/register/register.png)
+![Registration Screen](./docs/screenshots/register/Register.png)
 
 ### Submit New Case
 ![Case Submission Form](./docs/screenshots/submit-case/CaseSubmissionPortal.png)
